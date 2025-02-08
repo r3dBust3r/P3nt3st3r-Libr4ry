@@ -11,3 +11,4 @@ Server-Side Template Injection | [Image](images/server-side-template-injection-s
 D-Title   | Image Version | PDF Version
 ----------|---------------|------------
 Understanding Linux File Permissions & Metadata | [Image](images/understanding-linux-file-permissions-and-metadata.jpg) | [PDF](pdfs/understanding-linux-file-permissions-and-metadata.pdf)
+The Most Used Linux Commands For Sysadmins And Pentesters| [Image](images/the-most-used-linux-commands-for-sysadmins-and-pentesters.jpg) | [PDF](pdfs/the-most-used-linux-commands-for-sysadmins-and-pentesters.pdf)
